@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Suite start]]>
+    </line>
+    <line>
+      <![CDATA[Testcase started]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Successfully login is completed]]>
+    </line>
+    <line>
+      <![CDATA[Testcase passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-11T17:45:00 IST" name="Suite" finished-at="2024-04-11T17:45:24 IST" duration-ms="24154">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T17:45:00 IST" name="Test" finished-at="2024-04-11T17:45:24 IST" duration-ms="24154">
+      <class name="Amazon.Project_One_Amazon.Amz_Testcase_2">
+        <test-method is-config="true" signature="pre_condition(java.lang.String)[pri:0, instance:Amazon.Project_One_Amazon.Amz_Testcase_2@58d75e99]" started-at="2024-04-11T17:45:00 IST" name="pre_condition" finished-at="2024-04-11T17:45:12 IST" duration-ms="12783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pre_condition -->
+        <test-method signature="login_Steps_with_correct_details()[pri:0, instance:Amazon.Project_One_Amazon.Amz_Testcase_2@58d75e99]" started-at="2024-04-11T17:45:12 IST" name="login_Steps_with_correct_details" finished-at="2024-04-11T17:45:23 IST" duration-ms="10471" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase started]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Successfully login is completed]]>
+            </line>
+            <line>
+              <![CDATA[Testcase passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_Steps_with_correct_details -->
+        <test-method is-config="true" signature="closure_activity()[pri:0, instance:Amazon.Project_One_Amazon.Amz_Testcase_2@58d75e99]" started-at="2024-04-11T17:45:24 IST" name="closure_activity" finished-at="2024-04-11T17:45:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure_activity -->
+      </class> <!-- Amazon.Project_One_Amazon.Amz_Testcase_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
